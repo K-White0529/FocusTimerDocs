@@ -11,7 +11,7 @@ title: Focus Timer
     <p>Focus Timerは、25分の集中と休憩を1セットとして、勉強や作業のリズムを作るAndroidアプリです。スマートフォンに手を伸ばしやすい時間を減らし、集中した時間をログとして見える形に残します。</p>
   </div>
   <figure class="app-shot app-shot--phone">
-    <img src="store-screenshots/2026-06-03/01-idle.png" alt="タイマー待機画面">
+    <img src="store-screenshots/phone-screenshots/01-timer-idle.png" alt="タイマー待機画面">
   </figure>
 </section>
 
@@ -22,7 +22,7 @@ title: Focus Timer
     <p>画面を離れたり、端末を持ち上げたり、傾けたりした場合は中断として扱います。強制的に縛るためではなく、「いまは触らない」と決めた時間を守りやすくするための仕組みです。</p>
   </div>
   <figure class="app-shot app-shot--phone">
-    <img src="store-screenshots/2026-06-03/02-focus.png" alt="集中中画面">
+    <img src="store-screenshots/phone-screenshots/02-focus-running.png" alt="集中中画面">
   </figure>
 </section>
 
@@ -33,7 +33,7 @@ title: Focus Timer
     <p>途中で中断してしまった場合でも、復帰チケットを使えば残り時間から再開できます。失敗をすぐ終わりにせず、立て直す余地を残す設計です。</p>
   </div>
   <figure class="app-shot app-shot--phone">
-    <img src="store-screenshots/2026-06-03/03-rescue.png" alt="救済待ち画面">
+    <img src="store-screenshots/phone-screenshots/03-rescue.png" alt="救済待ち画面">
   </figure>
 </section>
 
@@ -44,7 +44,7 @@ title: Focus Timer
     <p>うまく集中できた日だけでなく、失敗した日もログに残ります。毎日の結果を見える形にすることで、自分の集中リズムを振り返りやすくなります。</p>
   </div>
   <figure class="app-shot app-shot--wide">
-    <img src="store-screenshots/2026-06-03/04-log-month-irregular.png" alt="月ログ画面">
+    <img src="store-screenshots/phone-screenshots/04-month-log.png" alt="月ログ画面">
   </figure>
 </section>
 
@@ -65,7 +65,7 @@ title: Focus Timer
     <p>Focus Timerは、休憩完了時と長休憩完了時にローカル通知を表示できます。通知を許可しない場合でも、タイマー機能は利用できます。</p>
   </div>
   <figure class="app-shot app-shot--wide">
-    <img src="store-screenshots/2026-06-03/05-notification-rationale.png" alt="通知許可説明">
+    <img src="store-screenshots/phone-screenshots/05-notification-rationale.png" alt="通知許可説明">
   </figure>
 </section>
 
