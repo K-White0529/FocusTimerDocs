@@ -1,3 +1,8 @@
+---
+layout: page
+title: プライバシーポリシー
+---
+
 # Focus Timer プライバシーポリシー
 
 最終更新日: 2026-06-03
@@ -68,3 +73,4 @@ Google AdMobのデータ取り扱いについては、Googleのポリシーお�
 
 - Google Play User Data policy: https://support.google.com/googleplay/android-developer/answer/10144311
 - Google Play Data safety section: https://support.google.com/googleplay/android-developer/answer/10787469
+
