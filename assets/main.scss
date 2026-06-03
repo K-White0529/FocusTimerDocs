@@ -1,0 +1,107 @@
+---
+---
+
+@import "minima";
+
+.post-content h1 {
+  margin-bottom: 1.5rem;
+}
+
+.app-hero,
+.app-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 340px);
+  gap: 2rem;
+  align-items: center;
+  margin: 2.5rem 0;
+}
+
+.app-hero {
+  margin-top: 0;
+}
+
+.app-section--reverse {
+  grid-template-columns: minmax(220px, 340px) minmax(0, 1fr);
+}
+
+.app-section--reverse .app-section__text {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.app-section--reverse .app-shot {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.app-lead {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.7;
+}
+
+.app-section__text h2 {
+  margin-top: 0;
+}
+
+.app-shot {
+  margin: 0;
+}
+
+.app-shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.12);
+}
+
+.app-shot--phone {
+  max-width: 300px;
+  justify-self: center;
+}
+
+.app-shot--wide,
+.app-shot--share {
+  max-width: 380px;
+  justify-self: center;
+}
+
+.app-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+  margin: 3rem 0 2rem;
+}
+
+.app-links {
+  margin-top: 2rem;
+}
+
+.app-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 760px) {
+  .app-hero,
+  .app-section,
+  .app-section--reverse,
+  .app-info-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .app-section--reverse .app-section__text,
+  .app-section--reverse .app-shot {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .app-shot--phone,
+  .app-shot--wide,
+  .app-shot--share {
+    max-width: 420px;
+  }
+}
