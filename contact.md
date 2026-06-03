@@ -5,6 +5,11 @@ title: 問い合わせ
 
 # 問い合わせ
 
+<nav class="language-switch" aria-label="Language">
+  <strong>日本語</strong>
+  <a href="en/contact.html">English</a>
+</nav>
+
 Focus Timerに関するお問い合わせは、以下のメールアドレスまでご連絡ください。
 
 - contact.keitakemura@gmail.com

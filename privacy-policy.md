@@ -5,6 +5,11 @@ title: プライバシーポリシー
 
 # Focus Timer プライバシーポリシー
 
+<nav class="language-switch" aria-label="Language">
+  <strong>日本語</strong>
+  <a href="en/privacy-policy.html">English</a>
+</nav>
+
 最終更新日: 2026-06-03
 
 Focus Timer（以下「本アプリ」）は、スマートフォンを置いて集中するためのフォーカスタイマーアプリです。本ポリシーでは、本アプリで扱う情報とその利用目的について説明します。
