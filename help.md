@@ -5,11 +5,6 @@ title: 使い方
 
 # Focus Timer 使い方
 
-<nav class="language-switch" aria-label="Language">
-  <strong>日本語</strong>
-  <a href="en/help.html">English</a>
-</nav>
-
 Focus Timerは、スマートフォンを置いて集中するためのフォーカスタイマーアプリです。
 
 ## 基本の流れ

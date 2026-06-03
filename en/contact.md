@@ -5,11 +5,6 @@ title: Contact
 
 # Contact
 
-<nav class="language-switch" aria-label="Language">
-  <a href="../contact.html">日本語</a>
-  <strong>English</strong>
-</nav>
-
 For inquiries about Focus Timer, please contact:
 
 - contact.keitakemura@gmail.com

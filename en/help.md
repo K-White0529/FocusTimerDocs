@@ -5,11 +5,6 @@ title: Help
 
 # Focus Timer Help
 
-<nav class="language-switch" aria-label="Language">
-  <a href="../help.html">日本語</a>
-  <strong>English</strong>
-</nav>
-
 Focus Timer is a focus timer app that helps you put your phone down and stay focused.
 
 ## Basic Flow

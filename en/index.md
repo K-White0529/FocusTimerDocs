@@ -5,11 +5,6 @@ title: Focus Timer
 
 # Focus Timer
 
-<nav class="language-switch" aria-label="Language">
-  <a href="../">日本語</a>
-  <strong>English</strong>
-</nav>
-
 <section class="app-hero">
   <div class="app-hero__text">
     <p class="app-lead">A stamina-based focus timer that helps you put your phone down and stay focused.</p>

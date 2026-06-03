@@ -5,11 +5,6 @@ title: Privacy Policy
 
 # Focus Timer Privacy Policy
 
-<nav class="language-switch" aria-label="Language">
-  <a href="../privacy-policy.html">日本語</a>
-  <strong>English</strong>
-</nav>
-
 Last updated: June 3, 2026
 
 Focus Timer ("the App") is a focus timer app that helps users put their smartphone down and stay focused. This policy explains what information the App handles and how it is used.

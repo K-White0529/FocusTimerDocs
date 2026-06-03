@@ -5,11 +5,6 @@ title: Focus Timer
 
 # Focus Timer
 
-<nav class="language-switch" aria-label="Language">
-  <strong>日本語</strong>
-  <a href="en/">English</a>
-</nav>
-
 <section class="app-hero">
   <div class="app-hero__text">
     <p class="app-lead">スマホを置いて集中するための、スタミナ制フォーカスタイマーです。</p>

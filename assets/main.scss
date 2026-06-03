@@ -7,28 +7,6 @@
   margin-bottom: 1.5rem;
 }
 
-.language-switch {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 0.5rem;
-  margin: -0.5rem 0 1.5rem;
-}
-
-.language-switch a,
-.language-switch strong {
-  border: 1px solid #d1d5db;
-  border-radius: 999px;
-  padding: 0.25rem 0.8rem;
-  text-decoration: none;
-}
-
-.language-switch strong {
-  background: #111827;
-  border-color: #111827;
-  color: #ffffff;
-}
-
 .app-hero,
 .app-section {
   display: grid;
